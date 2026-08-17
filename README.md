@@ -20,7 +20,7 @@
 - Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit
 - Network: URLSession, URLSessionWebSocketTask
 - Testing & automation: XCTest, Testing, Xcode Cloud
-- Technologies: GCD, Swift Concurrency, ARC, DSL, AutoLayout
+- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
 
 #### Other Tech Stack
 - Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Protobuf, gRPC, Hummingbird
@@ -30,6 +30,12 @@
 
 #### Multiplatform
 - Flutter, Java2C++ 
+
+#### CI/CD
+- GitHub Actions
+- Xcode Cloud
+- Fastlane
+- Jenkins
 
 ### Other
 
