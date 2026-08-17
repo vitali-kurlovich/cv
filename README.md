@@ -51,6 +51,9 @@
 # Work experience
 
 ## Mobicon Media | M-Belarusbank (Mobile Banking)
+ 
+ Mobile banking app from ASB Belarusbank for managing cards, paying bills, and making transfers.
+ 
  - Sep 2014 – May 2017 
  - Minsk, Belarus 
 
@@ -61,19 +64,9 @@
  
   - Old app version: Optimized core calculation algorithms and resolved critical UI performance bottlenecks, reducing lag and improving responsiveness.
  
-  - In the new app version: Redesigned the cross-platform Core architecture (iOS, Android, Server-side) to enforce immutability, eliminating unintentional data mutation bugs that previously accounted for 20–25% of all issues. 
+  - In the new app version: Redesigned the cross-platform Core architecture (iOS, Android, Server-side) to enforce immutability, eliminating unintentional data mutation bugs that previously accounted for 20–25% of all issues. Enhanced application stability by isolating unmanaged C++ wrappers. Spearheaded the implementation of a new UI design system as part of a complete app overhaul.
 
- 
- Bug fixes and performance improvements on the old version
- Designed the architecture for the new version of the application
- Implement the network subsystem
- Implement Obj-C wrappers for C++ code (business logic was implemented in Java; Java classes were converted into C++)
-
-
- 
- 
- ### Product Description: 
- Mobile banking app from ASB Belarusbank for managing cards, paying bills, and making transfers.
+  
 
 #### Team: 
 DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
