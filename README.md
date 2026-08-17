@@ -37,8 +37,6 @@
 - Fastlane
 - Jenkins
 
-### Other
-
 #### Dependency Management
 - Apple Platforms: SwiftPM, CocoaPods, Carthage, Tuist
 - Java: Maven, Gradle
@@ -51,7 +49,8 @@
 
 # Work experience
 
-## TradingView | Social trading network, financial analysis platform, and mobile app for traders and investors.
+## TradingView 
+- Social trading network, financial analysis platform, and mobile app for traders and investors.
 - Feb 2024 - Mar 2026
 - Tbilisi, Georgia
 
@@ -59,7 +58,7 @@
  Senior iOS Developer
 
  #### Responsibilities & Achievements: 
-
+  - Improve team productivity by optimizing the communication process
 
 
  ##### Tech Stack:
@@ -87,6 +86,26 @@
 
 ----
 
+# TalkWorks
+
+Domain: Medicine & Healthcare
+
+#### Position: 
+ Team Lead iOS Developer
+
+Team:
+
+DEV: 10, QA: 3, PM: 2
+
+Tech Stack:
+
+Swift, Python, UIKit, Swagger (OpenAPI), REST, WebSocket, StoreKit, CallKit, Twilio (WebRTC)
+
+Responsibilities
+
+Tool development (code generation), Design system, Network layer, Business logic
+
+
 
 
 ##### Psychic Book 
@@ -94,7 +113,7 @@
 Domain: Lifestyle / Social
 
 #### Position: 
- Team Lead iOS Developer
+ Senior iOS Developer
 
 Team: DEV: 6-9, QA: 2-3, PM: 1-2
 
@@ -107,24 +126,6 @@ Responsibilities:
 Converting Obj-C codebase into Swift, Business logic
 
 
-
-# TalkWorks
-
-Domain: Medicine & Healthcare
-
-Position: Senior iOS developer
-
-Team:
-
-DEV: 10, QA: 3, PM: 2
-
-Tech Stack:
-
-Swift, Python, UIKit, Swagger (OpenAPI), REST, WebSocket, StoreKit, CallKit, WebRTC
-
-Responsibilities
-
-Tool development (code generation), Design system, Network layer, Business logic
 
 
 
