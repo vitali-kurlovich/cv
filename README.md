@@ -50,10 +50,38 @@
 
 # Work experience
 
-## Mobicon Media
+## Mobicon Media  - Finance (Mobile Banking)
+ - Sep 2014 – May 2017 
+ - Minsk, Belarus 
 
-### Tags:
+ ### Position: 
+ Senior iOS Developer
+
+ ### Responsibilities & Achievements: 
+ Old app version: Optimized core calculation algorithms and resolved critical UI performance bottlenecks, reducing lag and improving responsiveness.
+ In the new app version: 
+
+ 
+ Bug fixes and performance improvements on the old version
+ Designed the architecture for the new version of the application
+ Implement the network subsystem
+ Implement Obj-C wrappers for C++ code (business logic was implemented in Java; Java classes were converted into C++)
+
+
+ 
+ 
+ ### Product Description: 
+ Mobile banking app from ASB Belarusbank for managing cards, paying bills, and making transfers.
+
+#### Team: 
+DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
+
+
+
+
+
+#### Tags:
 - Objective-C/CPP, Java, C++
-- TCP Sockets, UIKit, Core Animation, Quartz, 
+- TCP Sockets, UIKit, Core Animation, Quartz, Map
 - FinTech, Architect, 
 
