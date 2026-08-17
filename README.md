@@ -23,7 +23,7 @@
 - Technologies: GCD, Swift Concurrency, ARC, DSL, AutoLayout
 
 #### Other Tech Stack
-- Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya
+- Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Protobuf, gRPC, Hummingbird
 
 #### Desktop
 - Frameworks: Qt, Windows Forms, AppKit
