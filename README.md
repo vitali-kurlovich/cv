@@ -16,8 +16,11 @@
 ### Platforms and Frameworks
 
 ####  Apple Platforms (iOS/tvOS/macOS/watchOS)
-- UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Metal, AVFoundation, CallKit, PencilKit
-- GCD, Swift Concurrency
+
+##### Apple Tech Stack
+- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, Core Image, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd
+- Testing & automation: XCTest, Testing, Xcode Cloud
+- Technologies: GCD, Swift Concurrency, ARC, DSL
 
 #### Android
 
