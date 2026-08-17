@@ -51,6 +51,34 @@
 
 # Work experience
 
+## TradingView | 
+- Feb 2024 - Mar 2026
+- Tbilisi, Georgia
+
+#### Position: 
+ Senior iOS Developer
+
+---
+
+Product Description
+
+Mobile app for the TradingView service
+
+Position: Senior iOS Developer
+
+Tech Stack:
+
+Mobile: REST + WebSocket, UIKit, SwiftUI, CoreGraphics, Combine, 
+
+Swift Concurrency
+
+Responsibilities
+
+Architecture, business logic, UI, refactoring, and optimisation of legacy code
+
+----
+
+
 ## Wimix, LLC  |  Outsourcing software development
  
  - Jun 2017 – Jan 2024 
@@ -62,6 +90,104 @@
  #### Responsibilities & Achievements: 
 
   - Streamlined the candidate evaluation process to better screen out candidates with strong interview prep but weak technical execution.
+
+
+
+----
+
+
+
+# Psychic Book
+
+Domain: Lifestyle / Social
+
+Position: Senior iOS developer
+
+Team: DEV: 6-9, QA: 2-3, PM: 1-2
+
+Tech Stack:
+
+Obj-C, Swift, UIKit, Swagger, REST, WebSocket
+
+Responsibilities:
+
+Converting Obj-C codebase into Swift, Business logic
+
+
+
+# TalkWorks
+
+Domain: Medicine & Healthcare
+
+Position: Senior iOS developer
+
+Team:
+
+DEV: 10, QA: 3, PM: 2
+
+Tech Stack:
+
+Swift, Python, UIKit, Swagger (OpenAPI), REST, WebSocket, StoreKit, CallKit, WebRTC
+
+Responsibilities
+
+Tool development (code generation), Design system, Network layer, Business logic
+
+
+
+# XBO 
+
+Domain: Business / Finance (Trading)
+
+Product Description
+
+Mobile app for trading
+
+Position: Flutter Developer
+
+Team
+
+DEV: 4, QA: 4, PM: 2, PО: 1
+
+Tech Stack:
+
+Mobile: REST + Socket, Clean architecture, Packages, Graphs, Modules system, Appsflyer, Firebase, Firebase config/storage, Hive, Block
+
+Responsibilities
+
+Architecture, business logic, network layer, UI, design system, refactoring, and optimisation of legacy code
+
+
+
+# Squared Financial
+
+Domain: Business / Finance (Trading)
+
+Product Description:
+
+A service for trading. Integration with MT5 server (manager-api), rest/ws services preparation for mobile application.
+
+Position: Lead iOS developer
+
+Team
+
+DEV: 4, QA: 1, PM: 1
+
+Tech Stack:
+
+REST, socket.io, UIKit, CoreGraphics
+
+Responsibilities
+
+Architecture, business logic, network layer, UI
+
+
+
+----
+
+
+
+
 
 
 ## Mobicon Media | M-Belarusbank (Mobile Banking)
