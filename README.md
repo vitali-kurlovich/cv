@@ -50,7 +50,7 @@
 
 # Work experience
 
-## Mobicon Media  - Finance (Mobile Banking)
+## Mobicon Media | M-Belarusbank (Mobile Banking)
  - Sep 2014 – May 2017 
  - Minsk, Belarus 
 
@@ -58,8 +58,10 @@
  Senior iOS Developer
 
  ### Responsibilities & Achievements: 
- Old app version: Optimized core calculation algorithms and resolved critical UI performance bottlenecks, reducing lag and improving responsiveness.
- In the new app version: 
+ 
+  - Old app version: Optimized core calculation algorithms and resolved critical UI performance bottlenecks, reducing lag and improving responsiveness.
+ 
+  - In the new app version: Redesigned the cross-platform Core architecture (iOS, Android, Server-side) to enforce immutability, eliminating unintentional data mutation bugs that previously accounted for 20–25% of all issues. 
 
  
  Bug fixes and performance improvements on the old version
@@ -75,9 +77,6 @@
 
 #### Team: 
 DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
-
-
-
 
 
 #### Tags:
