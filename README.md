@@ -66,15 +66,15 @@
  
   - In the new app version: Redesigned the cross-platform Core architecture (iOS, Android, Server-side) to enforce immutability, eliminating unintentional data mutation bugs that previously accounted for 20–25% of all issues. Enhanced application stability by isolating unmanaged C++ wrappers. Spearheaded the implementation of a new UI design system as part of a complete app overhaul.
 
- - Enhanced app development by optimizing team communication and workflows.
+  - Enhanced app development by optimizing team communication and workflows.
   
+#### Tech Stack:
+- Objective-C/CPP, Java, C++
+- TCP Sockets, UIKit, Core Animation, Quartz, MapKit
 
 #### Team: 
 DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
 
 
-#### Tags:
-- Objective-C/CPP, Java, C++
-- TCP Sockets, UIKit, Core Animation, Quartz, Map
-- FinTech, Architect, 
+
 
