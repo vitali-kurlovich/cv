@@ -12,3 +12,16 @@
 - Python, Shell for CI/CD and automation
 - GLSL, HLSL, Metal Shading Language for Desktop and Apple Platforms graphics
 - Wolfram Language - Researching in math-heavy tasks
+
+### Platforms and Frameworks
+
+####  Apple Platforms (iOS/tvOS/macOS/watchOS)
+- UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Metal, AVFoundation, CallKit, PencilKit
+- GCD, Swift Concurrency
+
+#### Android
+
+#### Desktop
+
+
+### Work experience
