@@ -15,19 +15,24 @@
 
 ### Platforms and Frameworks
 
-####  Apple Platforms (iOS/tvOS/macOS/watchOS)
+#### Apple Tech Stack
 
-##### Apple Tech Stack
-- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, Core Image, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd
+- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, Core Image, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit
 - Testing & automation: XCTest, Testing, Xcode Cloud
-- Technologies: GCD, Swift Concurrency, ARC, DSL
+- Technologies: GCD, Swift Concurrency, ARC, DSL, AutoLayout
 
-#### Android
+#### Other Tech Stack
+- Frameworks: Firebase, Realm / MongoDB, 
 
 #### Desktop
+- Frameworks: Qt, Windows Forms, AppKit
 
+#### Multiplatform
+- Flutter, Java2C++ 
 
-### Dependency Management
+### Other
+
+#### Dependency Management
 - Apple Platforms: SwiftPM, CocoaPods, Carthage
 - Java: Maven, Gradle
 - Other: npm, bun, vite, pip, uv
