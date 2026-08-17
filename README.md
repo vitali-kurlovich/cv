@@ -23,7 +23,7 @@
 - Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
 
 #### Other Tech Stack
-- Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Protobuf, gRPC, Hummingbird
+- Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Protobuf, gRPC, Hummingbird, Twilio
 
 #### Desktop
 - Frameworks: Qt, Windows Forms, AppKit
@@ -50,6 +50,19 @@
 ---
 
 # Work experience
+
+## Wimix, LLC  |  Outsourcing software development
+ 
+ - Jun 2017 – Jan 2024 
+ - Minsk, Belarus 
+
+ #### Position: 
+ Tech Lead iOS Developer
+
+ #### Responsibilities & Achievements: 
+
+  - Streamlined the candidate evaluation process to better screen out candidates with strong interview prep but weak technical execution.
+
 
 ## Mobicon Media | M-Belarusbank (Mobile Banking)
  
