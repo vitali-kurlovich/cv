@@ -51,30 +51,22 @@
 
 # Work experience
 
-## TradingView | 
+## TradingView | Social trading network, financial analysis platform, and mobile app for traders and investors.
 - Feb 2024 - Mar 2026
 - Tbilisi, Georgia
 
 #### Position: 
  Senior iOS Developer
 
----
+ #### Responsibilities & Achievements: 
 
-Product Description
 
-Mobile app for the TradingView service
 
-Position: Senior iOS Developer
-
-Tech Stack:
-
-Mobile: REST + WebSocket, UIKit, SwiftUI, CoreGraphics, Combine, 
-
-Swift Concurrency
-
-Responsibilities
-
-Architecture, business logic, UI, refactoring, and optimisation of legacy code
+ ##### Tech Stack:
+  - Swift, Obj-C, UIKit, Core Graphics, SwiftUI, Combine, Swift Charts, Firebase
+  - GCD, Swift Concurrency
+  - REST, WebSockets
+  - SwiftPM, Tuist
 
 ----
 
@@ -97,11 +89,12 @@ Architecture, business logic, UI, refactoring, and optimisation of legacy code
 
 
 
-# Psychic Book
+##### Psychic Book 
 
 Domain: Lifestyle / Social
 
-Position: Senior iOS developer
+#### Position: 
+ Team Lead iOS Developer
 
 Team: DEV: 6-9, QA: 2-3, PM: 1-2
 
