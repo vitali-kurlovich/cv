@@ -47,4 +47,13 @@
 #### Version Control System
  - Git, Mercurial, SVN
 
-### Work experience
+
+# Work experience
+
+## Mobicon Media
+
+### Tags:
+- Objective-C/CPP, Java, C++
+- TCP Sockets, UIKit, Core Animation, Quartz, 
+- FinTech, Architect, 
+
