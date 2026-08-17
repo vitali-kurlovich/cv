@@ -34,7 +34,7 @@
 ### Other
 
 #### Dependency Management
-- Apple Platforms: SwiftPM, CocoaPods, Carthage
+- Apple Platforms: SwiftPM, CocoaPods, Carthage, Tuist
 - Java: Maven, Gradle
 - Other: npm, bun, vite, pip, uv
 
