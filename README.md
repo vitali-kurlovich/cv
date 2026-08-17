@@ -27,4 +27,12 @@
 #### Desktop
 
 
+### Dependency Management
+- Apple Platforms: SwiftPM, CocoaPods, Carthage
+- Java: Maven, Gradle
+- Other: npm, bun, vite, pip, uv
+
+#### Version Control System
+ - Git, Mercurial, SVN
+
 ### Work experience
