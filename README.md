@@ -17,7 +17,7 @@
 
 #### Apple Tech Stack
 
-- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, Core Image, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit
+- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit
 - Network: URLSession, URLSessionWebSocketTask
 - Testing & automation: XCTest, Testing, Xcode Cloud
 - Technologies: GCD, Swift Concurrency, ARC, DSL, AutoLayout
