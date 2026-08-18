@@ -228,6 +228,18 @@ Link: [https://github.com/vitali-kurlovich/swift-ui](https://github.com/vitali-k
 
 
 
+### swift-mathkit
+
+A Swift package containing generic linear algebra primitives alongside essential algorithms for matrix and vector computations on Apple platforms and Linux.
+
+Link: [https://github.com/vitali-kurlovich/swift-mathkit](https://github.com/vitali-kurlovich/swift-mathkit)
+
+#### Tech Stack:
+ - Swift, simd, Metal
+ - Linear algebra
+
+
+
 ### Swift Benchmarks
 
 The swift-benchmarks package provides a simple way to measure Swift code execution time across Apple platforms and Linux.
