@@ -3,6 +3,9 @@
 
 10+ years of iOS, 2+ years of Android
 
+LinkedIn: [www.linkedin.com/in/vitali-kurlovich](https://www.linkedin.com/in/vitali-kurlovich/) 
+GitHub: [github.com/vitali-kurlovich](https://github.com/vitali-kurlovich)
+
 ### Programming Languages
 
 - Swift, Objective-C/CPP for iOS, Server-side
@@ -154,6 +157,10 @@
 - TCP Sockets, UIKit, Core Animation, Quartz, MapKit
 
 ##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
+
+
+---
+
 
 
 
