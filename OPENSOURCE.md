@@ -3,6 +3,17 @@
 # OpenSource
 
 ---
+
+## swift-svg
+
+A Swift package for parsing, rendering, and converting SVG images.
+
+Link: [https://github.com/vitali-kurlovich/swift-svg](https://github.com/vitali-kurlovich/swift-svg)
+
+#### Tech Stack:
+ - Swift, SwiftUI, CoreGraphics
+
+---
 ## WebRTC
 
 WebRTC Binary library for iOS and macOS
