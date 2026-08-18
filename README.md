@@ -59,7 +59,7 @@
   - Implement and enhance graphics-heavy features.
   - Redesigned legacy graphics components to optimize user interaction and achieve a ~20% performance boost in profiling tests.
   - Refactored a legacy codebase. Tasks relevant to legacy code became more predictable to estimate and took less time to implement (in some cases, it saved weeks of development)  
-  - Boosted team productivity by streamlining communication and collaboration with QA (Increased overall productivity by approximately 50%).
+  - Boosted team productivity by streamlining communication and collaboration with QA (Increased overall productivity by ~50%).
   - The classic combo: launched new features, resolved legacy bugs, and boosted user satisfaction.
 
 
