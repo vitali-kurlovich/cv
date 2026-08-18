@@ -182,6 +182,7 @@ Link: [https://github.com/vitali-kurlovich/swift-semver](https://github.com/vita
 #### Tech Stack:
  - Swift, AttributedString, Regex
 
+
  
 ### Swift Data Structures
  
@@ -192,6 +193,8 @@ Link: [https://github.com/vitali-kurlovich/swift-data-structures](https://github
 #### Tech Stack:
  - Swift
 
+
+
 ### Swift UI (VisualEffects, SwiftUIComponents)
 
 Collection of SwiftUI components and useful utilities
@@ -200,6 +203,17 @@ Link: [https://github.com/vitali-kurlovich/swift-ui](https://github.com/vitali-k
 
 #### Tech Stack:
  - Swift, AttributedString, Metal Shading Language
+
+
+
+### Swift Benchmarks
+
+The swift-benchmarks package provides a simple way to measure Swift code execution time across Apple platforms and Linux.
+
+Link: [https://github.com/vitali-kurlovich/swift-benchmarks](https://github.com/vitali-kurlovich/swift-benchmarks)
+
+#### Tech Stack:
+ - Swift
 
 
 
