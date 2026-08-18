@@ -192,6 +192,14 @@ Link: [https://github.com/vitali-kurlovich/swift-data-structures](https://github
 #### Tech Stack:
  - Swift
 
+### Swift UI (VisualEffects, SwiftUIComponents)
+
+Collection of SwiftUI components and useful utilities
+
+Link: [https://github.com/vitali-kurlovich/swift-ui](https://github.com/vitali-kurlovich/swift-ui)
+
+#### Tech Stack:
+ - Swift, AttributedString, Metal Shading Language
 
 
 
