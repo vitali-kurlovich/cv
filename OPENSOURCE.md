@@ -80,4 +80,16 @@ Link: [https://github.com/vitali-kurlovich/swift-benchmarks](https://github.com/
 
 #### Tech Stack:
  - Swift
+
+---
+
+## swift-mathkit
+
+A Swift package containing generic linear algebra primitives alongside essential algorithms for matrix and vector computations on Apple platforms and Linux.
+
+Link: [https://github.com/vitali-kurlovich/swift-mathkit](https://github.com/vitali-kurlovich/swift-mathkit)
+
+#### Tech Stack:
+ - Swift, simd, Metal
+ - Linear algebra
  
