@@ -83,8 +83,10 @@
 
  #### Responsibilities & Achievements: 
  
-  - As a technical specialist, my responsibility was a classical thinks: architecture, development and refactoring legacy code - еhis is the main job of a technical specialist. Besides tech task
+  - As a technical specialist, my responsibility was a classical thinks: architecture, development and refactoring legacy code - еhis is the main job of a technical specialist. In addition to my technical duties, I collaborated with the team to enhance our development process. This involved optimizing requirements, offering technical guidance, and researching automation opportunities where appropriate.
+   
   - Established collaboration with HR, which significantly simplified the hiring process. Gathering information about a candidate's actual skills and performance was simplified. This allowed us to secure specialists who would otherwise be ignored by many IT companies, but who possess outstanding skills.
+  
   - Streamlined the candidate evaluation process to better screen out candidates with strong interview prep but weak technical execution.
 
 
