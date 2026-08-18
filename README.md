@@ -51,13 +51,13 @@
 
 # Work experience
 
+
 ## TradingView 
 - Social trading network, financial analysis platform, and mobile app for traders and investors.
 - Feb 2024 - Mar 2026
 - Tbilisi, Georgia
 
-#### Position: 
- Senior iOS Developer
+#### Position: Senior iOS Developer
 
  #### Responsibilities & Achievements: 
   - Implement and enhance graphics-heavy features.
@@ -72,22 +72,19 @@
   - GCD, Swift Concurrency
   - REST, WebSockets
   - SwiftPM, Tuist
- 
 
 ----
-
 
 ## Wimix, LLC  
  -  Outsourcing software development 
  - Jun 2017 – Jan 2024 
  - Minsk, Belarus 
 
- #### Position: 
- Tech Lead iOS Developer
+ #### Position: Tech Lead iOS Developer
 
  #### Responsibilities & Achievements: 
  
-  - As a technical specialist, my responsibility was a classical thinks: architecture, development and refactoring legacy code - еhis is the main job of a technical specialist. In addition to my technical duties, I collaborated with the team to enhance our development process. This involved optimizing requirements, offering technical guidance, and researching automation opportunities where appropriate.
+  - As a technical specialist, my responsibility was a classical thinks: architecture, development, and refactoring legacy code - еhis is the main job of a technical specialist. In addition to my technical duties, I collaborated with the team to enhance our development process. This involved optimizing requirements, offering technical guidance, and researching automation opportunities where appropriate.
    
   - Established collaboration with HR, which significantly simplified the hiring process. Gathering information about a candidate's actual skills and performance was simplified. This allowed us to secure specialists who would otherwise be ignored by many IT companies, but who possess outstanding skills.
   
@@ -95,12 +92,10 @@
 
 ### Projects in Wimix
 
-
-# Squared Financial
+#### __Squared Financial__
  - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
 
-#### Position: 
- Team Lead iOS Developer
+#### Position: Team Lead iOS Developer
 
 ##### Tech Stack:
  - Swift
@@ -111,47 +106,42 @@
   DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4, PM: 1
 
 
-#### TalkWorks
+#### __TalkWorks__ 
  - Find therapists and book online video consultations instantly.
 
-#### Position: 
- Team Lead iOS Developer
+#### Position: Team Lead iOS Developer
 
 ##### Tech Stack:
 - Swift, Python
-- UIKit, StoreKit CallKit, Twilio (WebRTC)
+- UIKit, StoreKit, CallKit, Twilio (WebRTC)
 - Swagger (OpenAPI), REST, WebSocket
 
 ##### Team: 
   DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
 
----
 
-#### XBO 
+#### __XBO__ 
  - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
 
-#### Position: 
-  Flutter Developer
+#### Position: Flutter Developer
 
 ##### Team: 
   DEV: 4, QA: 4, PM: 2, PО: 1
 
 ##### Tech Stack:
- - Flutter, Firebase, Appsflyer
+ - Flutter, Firebase, AppsFlyer
  - Hive, Block
  - REST, WebSocket
 
 ---
 
-## Mobicon Media | M-Belarusbank (Mobile Banking)
- 
- Mobile banking app from ASB Belarusbank for managing cards, paying bills, and making transfers.
+## Mobicon Media 
+ - Mobile banking app from ASB Belarusbank for managing cards, paying bills, and making transfers.
  
  - Sep 2014 – May 2017 
  - Minsk, Belarus 
 
- #### Position: 
- Senior iOS Developer
+ #### Position: Senior iOS Developer
 
  #### Responsibilities & Achievements: 
  
