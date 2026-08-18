@@ -58,7 +58,9 @@
  Senior iOS Developer
 
  #### Responsibilities & Achievements: 
-  - Improve team productivity by optimizing the communication process
+  - Implement and enhance graphics-heavy features.
+  - Redesign interaction components 
+  - Boost team productivity by streamlining communication and collaboration with QA.
 
 
  ##### Tech Stack:
@@ -70,8 +72,8 @@
 ----
 
 
-## Wimix, LLC  |  Outsourcing software development
- 
+## Wimix, LLC  
+ -  Outsourcing software development 
  - Jun 2017 – Jan 2024 
  - Minsk, Belarus 
 
