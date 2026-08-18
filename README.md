@@ -23,7 +23,8 @@
 - Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
 
 #### Other Tech Stack
-- Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Protobuf, gRPC, Hummingbird, Twilio
+- Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Hummingbird, Twilio
+- Technologies: Protobuf, gRPC, OpenAPI (Swagger)
 
 #### Desktop
 - Frameworks: Qt, Windows Forms, AppKit
@@ -32,10 +33,7 @@
 - Flutter, Java2C++ 
 
 #### CI/CD
-- GitHub Actions
-- Xcode Cloud
-- Fastlane
-- Jenkins
+- GitHub Actions,  Xcode Cloud, Fastlane, Jenkins
 
 #### Dependency Management
 - Apple Platforms: SwiftPM, CocoaPods, Carthage, Tuist
