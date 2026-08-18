@@ -89,108 +89,55 @@
   
   - Streamlined the candidate evaluation process to better screen out candidates with strong interview prep but weak technical execution.
 
+### Projects in Wimix
 
 
-
-----
-
-# TalkWorks
-
-Domain: Medicine & Healthcare
+# Squared Financial
+ - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
 
 #### Position: 
  Team Lead iOS Developer
 
-Team:
+##### Tech Stack:
+ - Swift
+ - UIKit, Core Graphics, Combine
+ - REST, WebSocket,  socket.io
 
-DEV: 10, QA: 3, PM: 2
-
-Tech Stack:
-
-Swift, Python, UIKit, Swagger (OpenAPI), REST, WebSocket, StoreKit, CallKit, Twilio (WebRTC)
-
-Responsibilities
-
-Tool development (code generation), Design system, Network layer, Business logic
+##### Team: 
+  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4, PM: 1
 
 
-
-
-##### Psychic Book 
-
-Domain: Lifestyle / Social
+#### TalkWorks
+ - Find therapists and book online video consultations instantly.
 
 #### Position: 
- Senior iOS Developer
+ Team Lead iOS Developer
 
-Team: DEV: 6-9, QA: 2-3, PM: 1-2
+##### Tech Stack:
+- Swift, Python
+- UIKit, StoreKit CallKit, Twilio (WebRTC)
+- Swagger (OpenAPI), REST, WebSocket
 
-Tech Stack:
+##### Team: 
+  DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
 
-Obj-C, Swift, UIKit, Swagger, REST, WebSocket
+---
 
-Responsibilities:
+#### XBO 
+ - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
 
-Converting Obj-C codebase into Swift, Business logic
+#### Position: 
+  Flutter Developer
 
+##### Team: 
+  DEV: 4, QA: 4, PM: 2, PО: 1
 
+##### Tech Stack:
+ - Flutter, Firebase, Appsflyer
+ - Hive, Block
+ - REST, WebSocket
 
-
-
-# XBO 
-
-Domain: Business / Finance (Trading)
-
-Product Description
-
-Mobile app for trading
-
-Position: Flutter Developer
-
-Team
-
-DEV: 4, QA: 4, PM: 2, PО: 1
-
-Tech Stack:
-
-Mobile: REST + Socket, Clean architecture, Packages, Graphs, Modules system, Appsflyer, Firebase, Firebase config/storage, Hive, Block
-
-Responsibilities
-
-Architecture, business logic, network layer, UI, design system, refactoring, and optimisation of legacy code
-
-
-
-# Squared Financial
-
-Domain: Business / Finance (Trading)
-
-Product Description:
-
-A service for trading. Integration with MT5 server (manager-api), rest/ws services preparation for mobile application.
-
-Position: Lead iOS developer
-
-Team
-
-DEV: 4, QA: 1, PM: 1
-
-Tech Stack:
-
-REST, socket.io, UIKit, CoreGraphics
-
-Responsibilities
-
-Architecture, business logic, network layer, UI
-
-
-
-----
-
-
-
-
-
+---
 
 ## Mobicon Media | M-Belarusbank (Mobile Banking)
  
