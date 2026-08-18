@@ -103,8 +103,7 @@
  - UIKit, Core Graphics, Combine
  - REST, WebSocket,  socket.io
 
-##### Team: 
-  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4, PM: 1
+##### Team:  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4, PM: 1
 
 
 #### __TalkWorks__ 
@@ -117,8 +116,7 @@
 - UIKit, StoreKit, CallKit, Twilio (WebRTC)
 - Swagger (OpenAPI), REST, WebSocket
 
-##### Team: 
-  DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
+##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
 
 
 #### __XBO__ 
@@ -126,8 +124,7 @@
 
 #### Position: Flutter Developer
 
-##### Team: 
-  DEV: 4, QA: 4, PM: 2, PО: 1
+##### Team: DEV: 4, QA: 4, PM: 2, PО: 1
 
 ##### Tech Stack:
  - Flutter, Firebase, AppsFlyer
@@ -156,8 +153,7 @@
 - Objective-C/CPP, Java, C++
 - TCP Sockets, UIKit, Core Animation, Quartz, MapKit
 
-##### Team: 
-  DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
+##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
 
 
 
