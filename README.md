@@ -6,6 +6,11 @@
 LinkedIn: [www.linkedin.com/in/vitali-kurlovich](https://www.linkedin.com/in/vitali-kurlovich/) 
 GitHub: [github.com/vitali-kurlovich](https://github.com/vitali-kurlovich)
 
+### Education
+
+Yanka Kupala State University of Grodno
+Baccalauréat, Electrical and Electronics Engineering 2008 - 2013 
+
 ### Programming Languages
 
 - Swift, Objective-C/CPP for iOS, Server-side
