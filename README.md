@@ -43,6 +43,10 @@
 #### Version Control System
  - Git, Mercurial, SVN
 
+#### Architect
+ - SOLID, KISS, DRY
+ - MVC, MVP, MVVM, TCA
+
 ---
 
 # Work experience
