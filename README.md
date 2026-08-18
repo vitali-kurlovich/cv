@@ -182,6 +182,16 @@ Link: [https://github.com/vitali-kurlovich/swift-semver](https://github.com/vita
 #### Tech Stack:
  - Swift, AttributedString, Regex
 
+ 
+## Swift Data Structures
+ 
+ A Swift package implementing essential data structures and algorithms, including LinkedList, LRU Cache, BloomFilter, and a Random Number Generator.
+
+Link: [https://github.com/vitali-kurlovich/swift-data-structures](https://github.com/vitali-kurlovich/swift-data-structures)
+
+#### Tech Stack:
+ - Swift
+
 
 
 
