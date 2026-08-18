@@ -9,6 +9,8 @@ WebRTC Binary library for iOS and macOS
 
 Features CI/CD automation to patch and build the WebRTC library directly from official Chromium source code.
 
+Link: [https://github.com/vitali-kurlovich/webrtc](https://github.com/vitali-kurlovich/webrtc)
+
 #### Tech Stack:
  - Swift, Python
 
