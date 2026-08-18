@@ -132,12 +132,12 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 
 #### Position: Flutter Developer
 
-##### Team: DEV: 4, QA: 4, PM: 2, PО: 1
-
 ##### Tech Stack:
  - Flutter, Firebase, AppsFlyer
  - Hive, Block
  - REST, WebSocket
+
+##### Team: DEV: 4, QA: 4, PM: 2, PО: 1
 
 ---
 
