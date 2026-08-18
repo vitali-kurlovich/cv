@@ -25,6 +25,7 @@
 #### Other Tech Stack
 - Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Hummingbird, Twilio
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger)
+- AI/ML: PyTorch, MLX, NEAT
 
 #### Desktop
 - Frameworks: Qt, Windows Forms, AppKit
