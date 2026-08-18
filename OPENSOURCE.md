@@ -2,10 +2,17 @@
 
 # OpenSource
 
+---
+
 ## FreeDistort Warp
 
-[github.com/vitali-kurlovich/swift-image](https://github.com/vitali-kurlovich/swift-image)
+A SwiftUI modifier for applying a Free Distort Warp effect to SwiftUI views.
 
- - FreeDistortModifier SwiftUI ViewModifier
- - Metal Shader implementation of FreeDistort layer effect
+Link: [https://github.com/vitali-kurlovich/swift-image](https://github.com/vitali-kurlovich/swift-image)
+
+#### Tech Stack:
+ - Swift, Metal Shader Language
+ - SwiftUI
+ 
+---
 
