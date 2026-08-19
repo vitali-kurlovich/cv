@@ -1,5 +1,5 @@
 # Vitali Kurlovich
-## Lead/Senior iOS Engineer
+## Lead / Senior iOS Engineer
 
 10+ years of iOS, 2+ years of Android
 
@@ -11,6 +11,12 @@ GitHub: [github.com/vitali-kurlovich](https://github.com/vitali-kurlovich)
 Yanka Kupala State University of Grodno
 Baccalauréat, Electrical and Electronics Engineering 2008 - 2013 
 
+### Speaking Languages:
+
+ - Russian - Native
+ - English - B2
+ - Polish - C1
+   
 ### Programming Languages
 
 - Swift, Objective-C/CPP for iOS, Server-side
@@ -31,7 +37,8 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 - Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
 
 #### Other Tech Stack
-- Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Hummingbird, Twilio
+- Frontend Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio
+- Server Frameworks: grpc-swift-2, Hummingbird
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger)
 - AI/ML: PyTorch, MLX, NEAT
 
@@ -59,7 +66,6 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 ---
 
 # Work experience
-
 
 ## TradingView 
 - Social trading network, financial analysis platform, and mobile app for traders and investors.
