@@ -23,7 +23,7 @@ Features CI/CD automation to patch and build the WebRTC library directly from of
 Link: [https://github.com/vitali-kurlovich/webrtc](https://github.com/vitali-kurlovich/webrtc)
 
 #### Tech Stack:
- - Swift, Python
+ - Swift, Python, Shell
 
 ---
 
