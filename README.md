@@ -8,10 +8,9 @@
  - LinkedIn: [www.linkedin.com/in/vitali-kurlovich](https://www.linkedin.com/in/vitali-kurlovich/) 
  - GitHub: [github.com/vitali-kurlovich](https://github.com/vitali-kurlovich)
 
-### Education
-
-Yanka Kupala State University of Grodno
-Baccalauréat, Electrical and Electronics Engineering 2008 - 2013 
+## Education
+- **Yanka Kupala State University of Grodno**  
+  Bachelor's Degree, Electrical and Electronics Engineering (2008 – 2013)
 
 ### Speaking Languages:
 
@@ -83,9 +82,7 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
   - Engineered graphics-heavy features and redesigned legacy graphics components, achieving a ~20% performance boost in profiling benchmarks.
   - Refactored legacy codebase, significantly improving task predictability and cutting feature implementation timelines by up to several weeks.
   - Streamlined QA communication and cross-team workflows, increasing team productivity by ~50%.
-  - Led core architecture, feature development, and legacy code refactoring
-
-
+  
  ##### Tech Stack:
   - Swift, Obj-C, UIKit, Core Graphics, SwiftUI, Combine, Swift Charts, Firebase
   - GCD, Swift Concurrency
@@ -134,8 +131,8 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 ##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
 
 
-#### __XBO__ 
- - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
+#### __XBO__
+- Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
 
 #### Position: Flutter Developer
 
@@ -144,7 +141,7 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
  - Hive, Block
  - REST, WebSocket
 
-##### Team: DEV: 4, QA: 4, PM: 2, PО: 1
+##### Team: DEV: 4, QA: 4
 
 ---
 
@@ -156,12 +153,9 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
  #### Position: Senior iOS Developer
 
  #### Responsibilities & Achievements: 
- 
-  - Old app version: Optimized core calculation algorithms and resolved critical UI performance bottlenecks, reducing lag and improving responsiveness.
- 
-  - In the new app version: Redesigned the cross-platform Core architecture (iOS, Android, Server-side) to enforce immutability, eliminating unintentional data mutation bugs that previously accounted for 20–25% of all issues. Enhanced application stability by isolating unmanaged C++ wrappers. Spearheaded the implementation of a new UI design system as part of a complete app overhaul.
-
-  - Enhanced app development by optimizing team communication and workflows.
+- **Old app version:** Optimized core calculation algorithms and resolved critical UI performance bottlenecks, reducing lag and improving responsiveness.
+- **New app version:** Redesigned cross-platform Core architecture (iOS, Android, Server-side) to enforce immutability, eliminating data mutation bugs (20–25% of all issues). Enhanced application stability by isolating unmanaged C++ wrappers and spearheaded a new UI design system overhaul.
+- Streamlined team communication and cross-functional workflows.
   
 ##### Tech Stack:
 - Objective-C/CPP, Java, C++
@@ -207,7 +201,7 @@ Link: [https://github.com/vitali-kurlovich/swift-image](https://github.com/vital
 
 ## Semantic Versioning
 
-Parses, Formatting and validates Semantic Versioning specifications in Swift.
+Parses, formats, and validates Semantic Versioning specifications in Swift.
 
 Link: [https://github.com/vitali-kurlovich/swift-semver](https://github.com/vitali-kurlovich/swift-semver)
 
@@ -222,8 +216,6 @@ Link: [https://github.com/vitali-kurlovich/swift-data-structures](https://github
 
 ##### Tech Stack:
  - Swift
-
-
 
 ### Swift UI (VisualEffects, SwiftUIComponents)
 
