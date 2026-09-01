@@ -3,22 +3,21 @@
 
 10+ years of iOS, 2+ years of Android
 
-### Profiles
+## Profiles
 
  - LinkedIn: [www.linkedin.com/in/vitali-kurlovich](https://www.linkedin.com/in/vitali-kurlovich/) 
  - GitHub: [github.com/vitali-kurlovich](https://github.com/vitali-kurlovich)
 
 ## Education
-- **Yanka Kupala State University of Grodno**  
-  Bachelor's Degree, Electrical and Electronics Engineering (2008 – 2013)
+- **Yanka Kupala State University of Grodno** — Bachelor's Degree, Electrical and Electronics Engineering (2008 – 2013)
 
-### Speaking Languages:
+## Speaking Languages:
 
  - Russian - Native
  - English - B2
  - Polish - C1
    
-### Programming Languages
+## Programming Languages
 
 - Swift, Objective-C/CPP for iOS, Server-side
 - Java, Kotlin, Dart for Android, multiplatform, and Server-side
@@ -28,44 +27,44 @@
 - GLSL, HLSL, Metal Shading Language 
 - Wolfram Language - Researching in math-heavy tasks
 
-### Platforms and Frameworks
+## Platforms and Frameworks
 
-#### Apple Tech Stack
+### Apple Tech Stack
 - Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit
 - Network: URLSession, URLSessionWebSocketTask
 - Testing & automation: XCTest, Testing, Xcode Cloud
 - Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
 
-#### Other Tech Stack
+### Other Tech Stack
 - Mobile & Client SDKs: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio
 - Server Frameworks: grpc-swift-2, Hummingbird
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger)
 - AI/ML: PyTorch, MLX, NEAT, XGBoost
 
-#### Desktop
+### Desktop
 - Frameworks: Qt, Windows Forms, AppKit
 
-#### Multiplatform
+### Multiplatform
 - Flutter, Java2C++ 
 
-#### CI/CD
+### CI/CD
 - GitHub Actions,  Xcode Cloud, Fastlane, Jenkins
 
-#### Dependency Management
+### Dependency Management
 - Apple Platforms: SwiftPM, CocoaPods, Carthage, Tuist
 - Java: Maven, Gradle
 - Other: npm, bun, vite, pip, uv
 
-#### Version Control System
+### Version Control System
  - Git, Mercurial, SVN
 
-#### Architecture Patterns
+### Architecture Patterns
  - SOLID, KISS, DRY
  - MVC, MVP, MVVM, TCA
 
-#### AI tools
- - *GitHub Copilot / Zed:* Automated code reviews, inline completion, and documentation generation.
- - *Gemini & Perplexity:* Technical research, architecture exploration, and text refinement.
+### AI tools
+ - **GitHub Copilot / Zed:** Automated code reviews, inline completion, and documentation generation.
+ - **Gemini & Perplexity:** Technical research, architecture exploration, and text refinement.
 
 ---
 
@@ -115,7 +114,7 @@
  - UIKit, Core Graphics, Combine
  - REST, WebSocket,  socket.io
 
-##### Team:  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4, PM: 1
+##### Team:  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
 
 
 #### __TalkWorks__ 
@@ -128,7 +127,7 @@
 - UIKit, StoreKit, CallKit, Twilio (WebRTC)
 - Swagger (OpenAPI), REST, WebSocket
 
-##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
+##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
 
 
 #### __XBO__
@@ -161,7 +160,7 @@
 - Objective-C/CPP, Java, C++
 - TCP Sockets, UIKit, Core Animation, Quartz, MapKit
 
-##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
+##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
 
 ---
 
