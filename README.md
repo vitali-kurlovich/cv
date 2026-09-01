@@ -80,10 +80,9 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 #### Position: Senior iOS Developer
 
  #### Responsibilities & Achievements: 
-  - Implement and enhance graphics-heavy features.
-  - Redesigned legacy graphics components to optimize user interaction and achieve a ~20% performance boost in profiling tests.
-  - Refactored a legacy codebase. Tasks relevant to legacy code became more predictable to estimate and took less time to implement (in some cases, it saved weeks of development)  
-  - Boosted team productivity by streamlining communication and collaboration with QA (Increased overall productivity by ~50%).
+  - Engineered graphics-heavy features and redesigned legacy graphics components, achieving a ~20% performance boost in profiling benchmarks.
+  - Refactored legacy codebase, significantly improving task predictability and cutting feature implementation timelines by up to several weeks.
+  - Streamlined QA communication and cross-team workflows, increasing team productivity by ~50%.
   - Led core architecture, feature development, and legacy code refactoring
 
 
@@ -103,11 +102,8 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
  #### Position: Tech Lead iOS Developer
 
  #### Responsibilities & Achievements: 
- 
-  - As a technical specialist, my responsibility was a classical thinks: architecture, development, and refactoring legacy code - еhis is the main job of a technical specialist. In addition to my technical duties, I collaborated with the team to enhance our development process. This involved optimizing requirements, offering technical guidance, and researching automation opportunities where appropriate.
-   
+  - Led architecture, feature development, and legacy code refactoring. Collaborated with cross-functional teams to optimize technical requirements, provide guidance, and automate development workflows.
   - Established collaboration with HR, which significantly simplified the hiring process. Gathering information about a candidate's actual skills and performance was simplified. This allowed us to secure specialists who would otherwise be ignored by many IT companies, but who possess outstanding skills.
-  
   - Streamlined the candidate evaluation process to better screen out candidates with strong interview prep but weak technical execution.
 
 ### Projects in Wimix
