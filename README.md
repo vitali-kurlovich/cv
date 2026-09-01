@@ -32,14 +32,13 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 ### Platforms and Frameworks
 
 #### Apple Tech Stack
-
 - Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit
 - Network: URLSession, URLSessionWebSocketTask
 - Testing & automation: XCTest, Testing, Xcode Cloud
 - Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
 
 #### Other Tech Stack
-- Frontend Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio
+- Mobile & Client SDKs: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio
 - Server Frameworks: grpc-swift-2, Hummingbird
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger)
 - AI/ML: PyTorch, MLX, NEAT, XGBoost
@@ -85,7 +84,7 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
   - Redesigned legacy graphics components to optimize user interaction and achieve a ~20% performance boost in profiling tests.
   - Refactored a legacy codebase. Tasks relevant to legacy code became more predictable to estimate and took less time to implement (in some cases, it saved weeks of development)  
   - Boosted team productivity by streamlining communication and collaboration with QA (Increased overall productivity by ~50%).
-  - The classic combo: launched new features, resolved legacy bugs, and boosted user satisfaction.
+  - Led core architecture, feature development, and legacy code refactoring
 
 
  ##### Tech Stack:
@@ -97,7 +96,7 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 ----
 
 ## Wimix, LLC  
- -  Outsourcing software development 
+ - Outsourcing software development 
  - Jun 2017 – Jan 2024 
  - Minsk, Belarus 
 
