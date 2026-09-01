@@ -150,7 +150,6 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 
 ## Mobicon Media 
  - Mobile banking app from ASB Belarusbank for managing cards, paying bills, and making transfers.
- 
  - Sep 2014 – May 2017 
  - Minsk, Belarus 
 
@@ -169,7 +168,6 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 - TCP Sockets, UIKit, Core Animation, Quartz, MapKit
 
 ##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4, PM: 1
-
 
 ---
 
