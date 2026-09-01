@@ -26,7 +26,7 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 - C, C++, C# for Desktop
 - JavaScript, TypeScript - episodic task on iOS, automation in Photoshop and Sketch, and frontend
 - Python, Shell for CI/CD and automation
-- GLSL, HLSL, Metal Shading Language for Desktop and Apple Platforms graphics
+- GLSL, HLSL, Metal Shading Language 
 - Wolfram Language - Researching in math-heavy tasks
 
 ### Platforms and Frameworks
@@ -42,7 +42,7 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 - Frontend Frameworks: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio
 - Server Frameworks: grpc-swift-2, Hummingbird
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger)
-- AI/ML: PyTorch, MLX, NEAT
+- AI/ML: PyTorch, MLX, NEAT, XGBoost
 
 #### Desktop
 - Frameworks: Qt, Windows Forms, AppKit
@@ -64,6 +64,10 @@ Baccalauréat, Electrical and Electronics Engineering 2008 - 2013
 #### Architect
  - SOLID, KISS, DRY
  - MVC, MVP, MVVM, TCA
+
+#### AI tools
+ - **GitHub Copilot / Zed:** Automated code reviews, inline completion, and documentation generation.
+- **Gemini & Perplexity:** Technical research, architecture exploration, and text refinement.
 
 ---
 
