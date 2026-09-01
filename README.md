@@ -62,7 +62,7 @@
  - SOLID, KISS, DRY
  - MVC, MVP, MVVM, TCA
 
-### AI tools
+### AI Tools
  - **GitHub Copilot / Zed:** Automated code reviews, inline completion, and documentation generation.
  - **Gemini & Perplexity:** Technical research, architecture exploration, and text refinement.
 
