@@ -129,7 +129,6 @@
 
 ##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
 
-// RxSwift
 
 #### __XBO__
 - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
