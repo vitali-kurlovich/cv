@@ -36,7 +36,7 @@
 - Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
 
 ### Other Tech Stack
-- Mobile & Client SDKs: Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio
+- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite
 - Server Frameworks: grpc-swift-2, Hummingbird
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger)
 - AI/ML: PyTorch, MLX, NEAT, XGBoost
@@ -111,8 +111,8 @@
 
 ##### Tech Stack:
  - Swift
- - UIKit, Core Graphics, Combine
- - REST, WebSocket,  socket.io
+ - UIKit, Core Graphics, RxSwift, Core Animation
+ - REST, WebSocket, socket.io
 
 ##### Team:  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
 
@@ -129,6 +129,7 @@
 
 ##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
 
+// RxSwift
 
 #### __XBO__
 - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
