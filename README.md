@@ -30,7 +30,7 @@
 ## Platforms and Frameworks
 
 ### Apple Tech Stack
-- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit
+- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit, User Notifications (APNs), PassKit
 - Network: URLSession, URLSessionWebSocketTask
 - Testing & automation: XCTest, Testing, Xcode Cloud
 - Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
@@ -51,7 +51,7 @@
 - GitHub Actions,  Xcode Cloud, Fastlane, Jenkins
 
 ### Dependency Management
-- Apple Platforms: SwiftPM, CocoaPods, Carthage, Tuist
+- Apple Platforms: SwiftPM (Swift Package Manager), CocoaPods, Carthage, Tuist
 - Java: Maven, Gradle
 - Other: npm, bun, vite, pip, uv
 
