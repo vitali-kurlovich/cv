@@ -38,7 +38,7 @@
 ### Other Tech Stack
 - Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite
 - Server Frameworks: grpc-swift-2, Hummingbird
-- Technologies: Protobuf, gRPC, OpenAPI (Swagger)
+- Technologies: Protobuf, gRPC, OpenAPI (Swagger), GraphQL
 - AI/ML: PyTorch, MLX, NEAT, XGBoost
 
 ### Desktop
