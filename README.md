@@ -30,16 +30,18 @@
 ## Platforms and Frameworks
 
 ### Apple Tech Stack
-- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit, User Notifications (APNs), PassKit
+- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit, User Notifications (APNs), PassKit, Keychain
 - Network: URLSession, URLSessionWebSocketTask
 - Testing & automation: XCTest, Testing, Xcode Cloud
-- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), AutoLayout
+- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), Auto Layout
 
 ### Other Tech Stack
-- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite
+- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite, SnapKit
 - Server Frameworks: grpc-swift-2, Hummingbird
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger), GraphQL
 - AI/ML: PyTorch, MLX, NEAT, XGBoost
+
+
 
 ### Desktop
 - Frameworks: Qt, Windows Forms, AppKit
@@ -60,7 +62,7 @@
 
 ### Architecture Patterns
  - SOLID, KISS, DRY
- - MVC, MVP, MVVM, TCA
+ - MVC, MVP, MVVM, VIPER, TCA 
 
 ### AI Tools
  - **GitHub Copilot / Zed:** Automated code reviews, inline completion, and documentation generation.
