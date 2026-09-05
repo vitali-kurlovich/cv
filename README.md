@@ -177,7 +177,7 @@
 
 # My Open Source Projects
 
-## swift-svg
+## SwiftSVG
 
 A Swift package for parsing, rendering, and converting SVG images.
 
@@ -236,7 +236,7 @@ Link: [https://github.com/vitali-kurlovich/swift-ui](https://github.com/vitali-k
 ##### Tech Stack:
  - Swift, AttributedString, Metal Shading Language
 
-## swift-mathkit
+## MathKit
 
 A Swift package containing generic linear algebra primitives alongside essential algorithms for matrix and vector computations on Apple platforms and Linux.
 
