@@ -138,7 +138,7 @@
 - Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain-Specific Language), Auto Layout
 
 ## Other Tech Stack
-- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite, SnapKit
+- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite, SnapKit, Google Mobile Ads SDK 
 - Server Frameworks: grpc-swift-2, Hummingbird
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger), GraphQL
 - AI/ML: PyTorch, MLX, NEAT, XGBoost
