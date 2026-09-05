@@ -1,13 +1,13 @@
 # Vitali Kurlovich
 ## Tech Lead | Senior iOS Engineer
 
-8+ years of iOS, 2+ years of Android
+9+ years of iOS, 2+ years of Android
 
-## Profiles
+## Contacts
 
  - LinkedIn: [www.linkedin.com/in/vitali-kurlovich](https://www.linkedin.com/in/vitali-kurlovich/) 
  - GitHub: [github.com/vitali-kurlovich](https://github.com/vitali-kurlovich)
-
+ - Email: vitalikurlovich@gmail.com
 
 # Work experience
 
