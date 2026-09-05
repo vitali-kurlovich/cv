@@ -11,7 +11,7 @@
 
 # Work experience
 
-## TradingView 
+## [TradingView](https://www.tradingview.com/) 
 - Social trading network, financial analysis platform, and mobile app for traders and investors.
 - Feb 2024 - Mar 2026
 - Tbilisi, Georgia
@@ -31,7 +31,7 @@
 
 ----
 
-## Wimix, LLC  
+## [Wimix, LLC](https://www.wimix.com/)  
  - Outsourcing software development 
  - Jun 2017 – Jan 2024 
  - Minsk, Belarus 
@@ -45,7 +45,7 @@
 
 ### Projects in Wimix
 
-#### __Squared Financial__
+#### [__Squared Financial__](https://www.squaredfinancial.com/)
  - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
 
 #### Position: Team Lead iOS Developer
@@ -71,7 +71,7 @@
 ##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
 
 
-#### __XBO__
+#### [__XBO__](https://www.xbo.com/)
 - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
 
 #### Position: Flutter Developer
@@ -85,7 +85,7 @@
 
 ---
 
-## Mobicon Media 
+## [Mobicon Media](https://mobicon-media.com/) 
  - Mobile banking app from ASB Belarusbank for managing cards, paying bills, and making transfers.
  - Sep 2014 – May 2017 
  - Minsk, Belarus 
