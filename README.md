@@ -1,74 +1,13 @@
 # Vitali Kurlovich
 ## Lead / Senior iOS Engineer
 
-10+ years of iOS, 2+ years of Android
+8+ years of iOS, 2+ years of Android
 
 ## Profiles
 
  - LinkedIn: [www.linkedin.com/in/vitali-kurlovich](https://www.linkedin.com/in/vitali-kurlovich/) 
  - GitHub: [github.com/vitali-kurlovich](https://github.com/vitali-kurlovich)
 
-## Education
-- **Yanka Kupala State University of Grodno** — Bachelor's Degree, Electrical and Electronics Engineering (2008 – 2013)
-
-## Speaking Languages:
-
- - Russian - Native
- - English - B2
- - Polish - C1
-   
-## Programming Languages
-
-- Swift, Objective-C/CPP for iOS, Server-side
-- Java, Kotlin, Dart for Android, multiplatform, and Server-side
-- C, C++, C# for Desktop
-- JavaScript, TypeScript - episodic task on iOS, automation in Photoshop and Sketch, and frontend
-- Python, Shell for CI/CD and automation
-- GLSL, HLSL, Metal Shading Language 
-- Wolfram Language - Researching in math-heavy tasks
-
-## Platforms and Frameworks
-
-### Apple Tech Stack
-- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit, User Notifications (APNs), PassKit, Keychain
-- Network: URLSession, URLSessionWebSocketTask
-- Testing & automation: XCTest, Testing, Xcode Cloud
-- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), Auto Layout
-
-### Other Tech Stack
-- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite, SnapKit
-- Server Frameworks: grpc-swift-2, Hummingbird
-- Technologies: Protobuf, gRPC, OpenAPI (Swagger), GraphQL
-- AI/ML: PyTorch, MLX, NEAT, XGBoost
-
-
-
-### Desktop
-- Frameworks: Qt, Windows Forms, AppKit
-
-### Multiplatform
-- Flutter, Java2C++ 
-
-### CI/CD
-- GitHub Actions,  Xcode Cloud, Fastlane, Jenkins
-
-### Dependency Management
-- Apple Platforms: SwiftPM (Swift Package Manager), CocoaPods, Carthage, Tuist
-- Java: Maven, Gradle
-- Other: npm, bun, vite, pip, uv
-
-### Version Control System
- - Git, Mercurial, SVN
-
-### Architecture Patterns
- - SOLID, KISS, DRY
- - MVC, MVP, MVVM, VIPER, TCA 
-
-### AI Tools
- - **GitHub Copilot / Zed:** Automated code reviews, inline completion, and documentation generation.
- - **Gemini & Perplexity:** Technical research, architecture exploration, and text refinement.
-
----
 
 # Work experience
 
@@ -163,6 +102,76 @@
 - TCP Sockets, UIKit, Core Animation, Quartz, MapKit
 
 ##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
+
+---
+
+# Tools and Frameworks
+
+## Development Tools
+ - **Xcode:** iOS and macOS development
+ - **Zed:** Python scripting and task automation
+ - **VS Code:** TypeScript, JavaScript, PlantUML modeling
+
+## AI Tools
+ - **GitHub Copilot / Zed:** Automated code reviews, inline completion, and documentation generation.
+ - **Gemini & Perplexity:** Technical research, architecture exploration, and text refinement.
+ - **Claude Code:** Rapid MVP prototyping, CLI automation, and architectural research.
+
+## Architecture Patterns
+ - SOLID, KISS, DRY
+ - MVC, MVP, MVVM, VIPER, TCA 
+   
+## Programming Languages
+
+- Swift, Objective-C/CPP for iOS, Server-side
+- Java, Kotlin, Dart for Android, multiplatform, and Server-side
+- C, C++, C# for Desktop
+- JavaScript, TypeScript - episodic task on iOS, automation in Photoshop and Sketch, and frontend
+- Python, Shell for CI/CD and automation
+- GLSL, HLSL, Metal Shading Language 
+- Wolfram Language - Researching in math-heavy tasks
+
+## Apple Tech Stack
+- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit, User Notifications (APNs), PassKit, Keychain
+- Network: URLSession, URLSessionWebSocketTask
+- Testing & automation: XCTest, Testing, Xcode Cloud
+- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), Auto Layout
+
+## Other Tech Stack
+- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite, SnapKit
+- Server Frameworks: grpc-swift-2, Hummingbird
+- Technologies: Protobuf, gRPC, OpenAPI (Swagger), GraphQL
+- AI/ML: PyTorch, MLX, NEAT, XGBoost
+
+## Desktop
+- Frameworks: Qt, Windows Forms, AppKit
+
+## Multiplatform
+- Flutter, Java2C++ 
+
+## CI/CD
+- GitHub Actions,  Xcode Cloud, Fastlane, Jenkins
+
+## Dependency Management
+- Apple Platforms: SwiftPM (Swift Package Manager), CocoaPods, Carthage, Tuist
+- Java: Maven, Gradle
+- Other: npm, bun, vite, pip, uv
+
+## Version Control System
+ - Git, Mercurial, SVN
+
+---
+
+# Education and Speaking Languages
+
+## Education
+- **Yanka Kupala State University of Grodno** — Bachelor's Degree, Electrical and Electronics Engineering (2008 – 2013)
+
+## Speaking Languages:
+
+ - Russian - Native
+ - English - B2
+ - Polish - C1
 
 ---
 
