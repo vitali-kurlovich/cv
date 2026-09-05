@@ -125,8 +125,8 @@
 
 - Swift, Objective-C/CPP for iOS, Server-side
 - Java, Kotlin, Dart for Android, multiplatform, and Server-side
-- C, C++, C# for Desktop
-- JavaScript, TypeScript - episodic task on iOS, automation in Photoshop and Sketch, and frontend
+- C, C++, C# for Desktop and PhotoShop automation
+- JavaScript, TypeScript - Design tool scripting (Photoshop, Sketch), frontend tasks
 - Python, Shell for CI/CD and automation
 - GLSL, HLSL, Metal Shading Language 
 - Wolfram Language - Researching in math-heavy tasks
@@ -135,7 +135,7 @@
 - Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit, User Notifications (APNs), PassKit, Keychain
 - Network: URLSession, URLSessionWebSocketTask
 - Testing & automation: XCTest, Testing, Xcode Cloud
-- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain Specific Language), Auto Layout
+- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain-Specific Language), Auto Layout
 
 ## Other Tech Stack
 - Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite, SnapKit
