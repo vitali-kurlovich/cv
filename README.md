@@ -1,5 +1,5 @@
 # Vitali Kurlovich
-## Lead / Senior iOS Engineer
+## Tech Lead | Senior iOS Engineer
 
 8+ years of iOS, 2+ years of Android
 
