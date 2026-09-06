@@ -119,7 +119,7 @@
 
 ## Architecture Patterns
  - SOLID, KISS, DRY
- - MVC, MVP, MVVM, VIPER, TCA 
+ - MVC, MVP, MVVM, VIPER, TCA, Coordinator 
    
 ## Programming Languages
 
