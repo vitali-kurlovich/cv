@@ -147,7 +147,7 @@
 - Frameworks: Qt, Windows Forms, AppKit
 
 ## Multiplatform
-- Flutter, Java2C++ 
+- Flutter, React Native, Java2C++ 
 
 ## CI/CD
 - GitHub Actions,  Xcode Cloud, Fastlane, Jenkins
