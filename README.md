@@ -126,7 +126,7 @@
 - Swift, Objective-C/CPP for iOS, Server-side
 - Java, Kotlin, Dart for Android, multiplatform, and Server-side
 - C, C++, C# for Desktop and PhotoShop automation
-- JavaScript, TypeScript - Design tool scripting (Photoshop, Sketch), frontend tasks
+- JavaScript, TypeScript - Design tool scripting (Photoshop, Sketch), multiplatform (React Native)
 - Python, Shell for CI/CD and automation
 - GLSL, HLSL, Metal Shading Language 
 - Wolfram Language - Researching in math-heavy tasks
