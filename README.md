@@ -115,9 +115,10 @@
  - **Gemini & Perplexity:** Technical research, architecture exploration, and text refinement.
  - **Claude Code:** Rapid MVP prototyping, CLI automation, and architectural research.
 
-## Architecture Patterns
+## Architecture Patterns and Methodologies
  - SOLID, KISS, DRY
- - MVC, MVP, MVVM, VIPER, TCA, Coordinator 
+ - MVC, MVP, MVVM, VIPER, TCA, Coordinator
+ - Test-Driven Development (TDD)
    
 ## Programming Languages
 
