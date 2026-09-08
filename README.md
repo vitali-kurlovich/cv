@@ -117,7 +117,7 @@
 
 ## Architecture Patterns and Methodologies
  - SOLID, KISS, DRY
- - MVC, MVP, MVVM, VIPER, TCA, Coordinator
+ - MVC, MVP, MVVM, VIPER, TCA, Coordinator navigation (MVVM-C)
  - Test-Driven Development (TDD), Domain-Driven Design (DDD)
    
 ## Programming Languages
