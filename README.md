@@ -57,6 +57,17 @@
 
 ##### Team:  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
 
+#### [__XBO__](https://www.xbo.com/)
+- Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
+
+#### Position: Senior Flutter Developer
+
+##### Tech Stack:
+ - Flutter, Firebase, AppsFlyer
+ - Hive, Provider, BLoC
+ - REST, WebSocket
+
+##### Team: DEV: 4, QA: 4
 
 #### __TalkWorks__ 
  - Find therapists and book online video consultations instantly.
@@ -69,19 +80,6 @@
 - Swagger (OpenAPI), REST, WebSocket
 
 ##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
-
-
-#### [__XBO__](https://www.xbo.com/)
-- Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
-
-#### Position: Flutter Developer
-
-##### Tech Stack:
- - Flutter, Firebase, AppsFlyer
- - Hive, Provider, BLoC
- - REST, WebSocket
-
-##### Team: DEV: 4, QA: 4
 
 ---
 
