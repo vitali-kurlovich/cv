@@ -64,7 +64,7 @@
 
 ##### Tech Stack:
  - Flutter, Firebase, AppsFlyer
- - Hive, Provider, BLoC
+ - Hive, Provider, BLoC, RxDart
  - REST, WebSocket
 
 ##### Team: DEV: 4, QA: 4
