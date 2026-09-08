@@ -13,7 +13,7 @@
 
 ## [TradingView](https://www.tradingview.com/) 
 - Social trading network, financial analysis platform, and mobile app for traders and investors.
-- Feb 2024 - Mar 2026
+- Feb 2024 - Jul 2026
 - Tbilisi, Georgia
 
 #### Position: Senior iOS Developer
