@@ -29,6 +29,8 @@
   - REST, WebSockets
   - SwiftPM, Tuist
 
+ ##### Team: Developers: 9-12, QA: 6
+
 ----
 
 ## [Wimix, LLC](https://www.wimix.com/)  
@@ -55,11 +57,11 @@
  - Hive, Provider, BLoC, RxDart, Cubit
  - REST, WebSocket
 
-##### Team: DEV: 4, QA: 4
+##### Team: Developers: 4 (2 Android, 2 iOS), QA: 4
 
 #### [__Squared Financial__](https://www.squaredfinancial.com/)
  - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
- - 
+
 #### Position: Team Lead iOS Developer
 
 ##### Tech Stack:
@@ -67,7 +69,7 @@
  - UIKit, Core Graphics, RxSwift, Core Animation
  - REST, WebSocket, socket.io
 
-##### Team:  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
+##### Team:  Developers: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
 
 
 #### __TalkWorks__ 
@@ -80,7 +82,7 @@
 - UIKit, StoreKit, CallKit, Twilio (WebRTC)
 - Swagger (OpenAPI), REST, WebSocket
 
-##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
+##### Team: Developers: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
 
 ---
 
@@ -100,7 +102,7 @@
 - Objective-C/CPP, Java, C++
 - TCP Sockets, UIKit, Core Animation, Quartz, MapKit
 
-##### Team: DEV: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
+##### Team: Developers: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
 
 ---
 
