@@ -1,5 +1,5 @@
 # Vitali Kurlovich
-## Tech Lead | Senior iOS/Flutter Engineer
+## Tech Lead | Senior iOS and Flutter Engineer
 
 9+ years of iOS Native, 3+ years of Flutter
 
