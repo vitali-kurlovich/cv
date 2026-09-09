@@ -1,7 +1,7 @@
 # Vitali Kurlovich
 ## Tech Lead | Senior iOS/Flutter Engineer
 
-9+ years of iOS, 2+ years of Android
+9+ years of iOS Native, 3+ years of Flutter
 
 ## Contacts
 
@@ -45,18 +45,6 @@
 
 ### Projects in Wimix
 
-#### [__Squared Financial__](https://www.squaredfinancial.com/)
- - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
-
-#### Position: Team Lead iOS Developer
-
-##### Tech Stack:
- - Swift
- - UIKit, Core Graphics, RxSwift, Core Animation
- - REST, WebSocket, socket.io
-
-##### Team:  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
-
 #### [__XBO__](https://www.xbo.com/)
 - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
 
@@ -68,6 +56,19 @@
  - REST, WebSocket
 
 ##### Team: DEV: 4, QA: 4
+
+#### [__Squared Financial__](https://www.squaredfinancial.com/)
+ - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
+ - 
+#### Position: Team Lead iOS Developer
+
+##### Tech Stack:
+ - Swift
+ - UIKit, Core Graphics, RxSwift, Core Animation
+ - REST, WebSocket, socket.io
+
+##### Team:  DEV: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
+
 
 #### __TalkWorks__ 
  - Find therapists and book online video consultations instantly.
