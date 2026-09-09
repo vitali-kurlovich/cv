@@ -114,12 +114,12 @@
 ## Development Tools
  - **Xcode:** iOS and macOS development
  - **Zed:** Python scripting and task automation
- - **VS Code:** TypeScript, JavaScript, PlantUML modeling
+ - **VS Code:** Flutter development, TypeScript, JavaScript, PlantUML modeling
 
 ## AI Tools
  - **GitHub Copilot / Zed:** Automated code reviews, inline completion, and documentation generation.
  - **Gemini & Perplexity:** Technical research, architecture exploration, and text refinement.
- - **Claude Code:** Rapid MVP prototyping, CLI automation, and architectural research.
+ - **Claude Code:** Terminal-driven agentic development, rapid MVP builds, and CLI automation.
 
 ## Architecture Patterns and Methodologies
  - SOLID, KISS, DRY
