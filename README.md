@@ -49,11 +49,12 @@
 
 #### [__XBO__](https://www.xbo.com/)
 - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
+- Aug 2022 - Jun 2024 
 
 #### Position: Senior Flutter Developer
 
 ##### Tech Stack:
- - Flutter, Dart
+ - Flutter, Dart, (Swift/Kotlin)
  - Firebase, AppsFlyer
  - Hive, Provider, BLoC, RxDart, Cubit, Crashlytics
  - REST, WebSocket
@@ -62,6 +63,7 @@
 
 #### [__Squared Financial__](https://www.squaredfinancial.com/)
  - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
+ - May 2020 - Aug 2022
 
 #### Position: Team Lead iOS Developer
 
@@ -72,9 +74,9 @@
 
 ##### Team:  Developers: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
 
-
-#### __TalkWorks__ 
+#### __TalkWorks__  
  - Find therapists and book online video consultations instantly.
+ - Oct 2018 - May 2020
 
 #### Position: Team Lead iOS Developer
 
