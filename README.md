@@ -53,7 +53,7 @@
 #### Position: Senior Flutter Developer
 
 ##### Tech Stack:
- - Flutter
+ - Flutter, Dart
  - Firebase, AppsFlyer
  - Hive, Provider, BLoC, RxDart, Cubit, Crashlytics
  - REST, WebSocket
