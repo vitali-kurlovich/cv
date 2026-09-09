@@ -14,7 +14,9 @@
 - I drive product excellence by leading complex feature development, optimizing system performance at scale, and owning core architecture end-to-end.
 - I combine technical depth with business strategy to optimize engineering costs and accelerate conversion growth.
 - I thrive in ambiguity—solving open-ended problems is far more engaging than simple task execution.
-- Leverage modern AI workflows to accelerate delivery: Claude Code for terminal-driven agentic development and CLI automation; Gemini & Perplexity for technical research, architecture exploration, and documentation refinement.
+- Leverage modern AI workflows to accelerate delivery: 
+  - **Claude Code** for terminal-driven agentic development and CLI automation;
+  - **Gemini & Perplexity** for technical research, architecture exploration, and documentation refinement.
 
 
 # Work experience
