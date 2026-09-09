@@ -44,6 +44,7 @@
   - Led architecture, feature development, and legacy code refactoring. Collaborated with cross-functional teams to optimize technical requirements, provide guidance, and automate development workflows.
   - Established collaboration with HR, which significantly simplified the hiring process. Gathering information about a candidate's actual skills and performance was simplified. This allowed us to secure specialists who would otherwise be ignored by many IT companies, but who possess outstanding skills.
   - Streamlined the candidate evaluation process to better screen out candidates with strong interview prep but weak technical execution.
+  - Lead technical decisions, mentor junior engineers, and drive cross-team alignment.
 
 ### Projects in Wimix
 
