@@ -56,11 +56,24 @@
   - Streamlined the candidate evaluation process to better screen out candidates with strong interview prep but weak technical execution.
   - Lead technical decisions, mentor junior engineers, and drive cross-team alignment.
 
-### Projects in Wimix
+### Projects at Wimix
+
+#### [__Squared Financial__](https://www.squaredfinancial.com/)
+ - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
+ - Aug 2022 - Jun 2024 
+
+#### Position: Team Lead iOS Developer
+
+##### Tech Stack:
+ - Swift
+ - UIKit, Core Graphics, RxSwift, Core Animation
+ - REST, WebSocket, socket.io
+
+##### Team:  Developers: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
 
 #### [__XBO__](https://www.xbo.com/)
 - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
-- Aug 2022 - Jun 2024 
+- May 2020 - Aug 2022
 
 #### Position: Senior Flutter Developer
 
@@ -71,19 +84,6 @@
  - REST, WebSocket
 
 ##### Team: Developers: 4 (2 Android, 2 iOS), QA: 4
-
-#### [__Squared Financial__](https://www.squaredfinancial.com/)
- - Mobile trading platform for Crypto, Forex, and multi-asset markets with seamless MT5 integration.
- - May 2020 - Aug 2022
-
-#### Position: Team Lead iOS Developer
-
-##### Tech Stack:
- - Swift
- - UIKit, Core Graphics, RxSwift, Core Animation
- - REST, WebSocket, socket.io
-
-##### Team:  Developers: 3 (iOS), 3 (Android), 2 Core, QA: 2-4
 
 #### __TalkWorks__  
  - Find therapists and book online video consultations instantly.
