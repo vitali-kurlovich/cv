@@ -166,7 +166,7 @@
 - Flutter, React Native, Java2C++ 
 
 ## CI/CD
-- GitHub Actions,  Xcode Cloud, Fastlane, Jenkins
+- GitHub Actions, Xcode Cloud, Fastlane, Jenkins
 
 ## Dependency Management
 - Apple Platforms: SwiftPM (Swift Package Manager), CocoaPods, Carthage, Tuist
