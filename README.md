@@ -1,7 +1,7 @@
 # Vitali Kurlovich
 ## Tech Lead | Senior iOS and Flutter Engineer
 
-9+ years of iOS Native, 3+ years of Flutter
+9+ years of iOS Native, 3+ years of Flutter, 2+ years of Android
 
 ## Contacts
 
@@ -73,7 +73,7 @@
 
 #### [__XBO__](https://www.xbo.com/)
 - Multi-asset trading platform for Web, Desktop, and Mobile. (Crypto, Forex, etc.)
-- May 2020 - Aug 2022
+- May 2019 - Aug 2022
 
 #### Position: Senior Flutter Developer
 
@@ -87,7 +87,7 @@
 
 #### __TalkWorks__  
  - Find therapists and book online video consultations instantly.
- - Oct 2018 - May 2020
+ - Oct 2017 - May 2019
 
 #### Position: Team Lead iOS Developer
 
@@ -113,7 +113,7 @@
 - Streamlined team communication and cross-functional workflows.
   
 ##### Tech Stack:
-- Objective-C/CPP, Java, C++
+- Objective-C/CPP, Java, C++, Kotlin
 - TCP Sockets, UIKit, Core Animation, Quartz, MapKit
 
 ##### Team: Developers: 1-2 (iOS), 1-2 (Android), 2 Core, QA: 2-4
