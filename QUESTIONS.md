@@ -24,9 +24,11 @@ Over time, navigating these real-world outcomes helps less technically experienc
 
 ## Developer-Manager conflict
 
-This is a rare type of conflict, and сause of this type is often the wrong process on the road from formulating business requirements to implementation. When all business requirements are approved, it's too difficult to change it when development has started.
-To avoid this, engineers (programmers, QA, designers) must have possability make feedback at the early stage of discussion about new features.
+Developer–manager conflicts are less frequent and usually stem from broken processes between feature scoping and execution. Once business requirements are finalized and approved, modifying them during active development becomes difficult and costly.
 
-Example: The web service provides an opportunity to dynamically change the language. The business wants this feature in the mobile app. In the early stage, developers can explain that the app's language changing is operation system feature, so the solution can be implemented as a control that redirects the app to app settings, where the user can change the localization settings of the application. This solution can cost dramaticly lower then implementation similar to the web service.
+To prevent this, engineering team members (developers, QA, designers) must have the opportunity to provide feedback early during feature discussions.
 
-Sometimes developers can change business requirements after the beginning of implementation. Developers must initialize discution process with the project manager and business representatives.
+### Example:
+A web platform offers an in-app toggle to change the UI language dynamically. Business stakeholders request the same feature for the mobile app. By offering early feedback, developers can explain that mobile operating systems manage app localization natively. Implementing a control that redirects users to the OS settings achieves the business goal at a dramatically lower cost than building custom in-app localization logic.
+
+If technical realities require changing business requirements after development has started, engineers should immediately initiate a discussion with project managers and business stakeholders to align on trade-offs.
