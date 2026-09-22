@@ -5,7 +5,7 @@ Nowadays, IT companies are trying to apply internal process changes driven by th
 
 If the question is: Can AI tools improve productivity and reduce the cost of software development? The answer will be: Yes. 
 
-If the question is: Can AI tools worsen productivity and increase the cost of software development? The answer will be: Yes, too.
+If the question is: Can AI tools worsen productivity and increase the cost of software development? The answer will be the same: Yes, too.
 
 ## Social Media
 
