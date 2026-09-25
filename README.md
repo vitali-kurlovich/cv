@@ -148,13 +148,13 @@
 - Wolfram Language - Researching in math-heavy tasks
 
 ## Apple Tech Stack
-- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit, CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit, User Notifications (APNs), PassKit, Keychain
+- Frameworks: UIKit, CoreGraphics, CoreAnimation, SwiftUI, Combine, CoreData, SwiftData, Contacts, MapKit (Apple Maps), CoreLocation. StoreKit, Swift Charts, Quartz, CoreImage, Metal, AVFoundation, CallKit, PencilKit, Compression, CryptoKit, CoreML, simd, AppKit, User Notifications (APNs), PassKit, Keychain, UserDefaults
 - Network: URLSession, URLSessionWebSocketTask
 - Testing & automation: XCTest, Testing, Xcode Cloud
-- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain-Specific Language), Auto Layout
+- Technologies: ARC, GCD (Grand Central Dispatch), Swift Concurrency (async/await, Streams, Task & Task Groups, etc.), DSL (Domain-Specific Language), Auto Layout (Storyboards)
 
 ## Other Tech Stack
-- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite, SnapKit, Google Mobile Ads SDK 
+- Mobile & Client SDKs: RxSwift, Firebase, Realm / MongoDB, Google Analytics, WebRTC, Alamofire, Moya, Twilio, SQLite, SnapKit, Google Mobile Ads SDK, SQLite, Google Maps 
 - Server Frameworks: grpc-swift-2, Hummingbird
 - Technologies: Protobuf, gRPC, OpenAPI (Swagger), GraphQL
 - AI/ML: PyTorch, MLX, NEAT, XGBoost
@@ -166,7 +166,7 @@
 - Flutter, React Native, Java2C++ 
 
 ## CI/CD
-- GitHub Actions, Xcode Cloud, Fastlane, Jenkins
+- GitHub Actions, Xcode Cloud, Fastlane, Jenkins, App Store Connect, TestFlight
 
 ## Dependency Management
 - Apple Platforms: SwiftPM (Swift Package Manager), CocoaPods, Carthage, Tuist
