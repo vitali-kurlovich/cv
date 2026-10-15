@@ -65,7 +65,7 @@
 #### Position: Team Lead iOS Developer
 
 ##### Tech Stack:
- - Swift
+ - Swift, Objective-C
  - UIKit, Core Graphics, RxSwift, Core Animation
  - REST, WebSocket, socket.io
 
