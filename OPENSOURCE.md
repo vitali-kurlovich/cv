@@ -8,6 +8,9 @@
 
 An iOS/macOS photo-editing app for iOS that offers a curated collection of high-quality, cinematic filter presets using LUT (Look-Up Table) based color grading. The same professional technique used in film and photography for a rich, editorial aesthetic distinct from typical vintage/nostalgic filter apps.
 
+Link: [https://github.com/vitali-kurlovich/PhotoEditor](https://github.com/vitali-kurlovich/PhotoEditor)
+
+
 #### Tech Stack:
  - SwiftUI, Core Image, Metal, PhotoKit
 
