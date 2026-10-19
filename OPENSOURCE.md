@@ -15,7 +15,7 @@ Link: [https://github.com/vitali-kurlovich/PhotoEditor](https://github.com/vital
  - SwiftUI, Core Image, Metal, PhotoKit
 
 
-## swift-svg
+## SwiftSVG
 
 A Swift package for parsing, rendering, and converting SVG images.
 
