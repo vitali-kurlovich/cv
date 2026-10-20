@@ -9,4 +9,32 @@
  
 
 
+```plantuml
+@startuml
+!theme plain
+skinparam componentStyle rectangle
 
+actor User
+
+package "Zed Client Application" {
+    [UI Component / GPUI] as GPUI
+    [Multi-buffer Manager] as Buffer
+    [AI Agent Panel] as AIAgent
+}
+
+database "Local Project Files" as Files
+
+cloud "Zed Network Services" {
+    [Collaboration Server] as Collab
+    [LLM Provider Providers] as AIBackend
+}
+
+User --> GPUI : Interactions
+GPUI --> Buffer : Mutates Text
+Buffer <--> Files : Disk I/O
+Buffer <--> Collab : CRDT Sync Synchronization
+AIAgent <--> AIBackend : Context Prompts & Completions
+Buffer <--> AIAgent : Inline Diagnostics & Assists
+
+@enduml
+```
